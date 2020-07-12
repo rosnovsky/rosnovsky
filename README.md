@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 Art's here. I'm a software engineer from Mill Creek, WA (~20 miles north of Seattle). I work full-time on providing support to developers who use [@Auth0](https://github.com/auth0) to secure their apps and solve identity.
 
@@ -10,7 +10,7 @@ Art's here. I'm a software engineer from Mill Creek, WA (~20 miles north of Seat
 - 📫 How to reach me: rosnovsky@hey.com
 - ⚡ Fun fact: I can fly a single-engine airplane.
 
-## 🎧 Current Music
+### 🎧 Current Music
 <a href="https://spotify-readme.vercel.app/api/now-playing?open">
     <img src="https://spotify-readme.vercel.app/api/now-playing" width="256" height="64" alt="Now Playing">
 </a>
