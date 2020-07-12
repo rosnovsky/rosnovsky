@@ -10,6 +10,10 @@ Art's here. I'm a software engineer from Mill Creek, WA (~20 miles north of Seat
 - 📫 How to reach me: rosnovsky@hey.com
 - ⚡ Fun fact: I can fly a single-engine airplane.
 
+### What else?
+
+I ❤️ [Gatsby](https://gatsbyjs.org), [Netlify](https://netlify.com), [ZEIT](https://vercel.com) (make me call it Vercel, go ahead, I dare you!) and all things [JAMStack](https://jamstack.org/). React, [Svelte](https://svelte.dev), GraphQL, serverless functions and all this good stuff. 
+
 ### 🎧 Current Music
 <a href="https://spotify-readme.vercel.app/api/now-playing?open">
     <img src="https://spotify-readme.vercel.app/api/now-playing" width="256" height="64" alt="Now Playing">
