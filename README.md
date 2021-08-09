@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Art's here. I'm a software engineer from Mill Creek, WA (~20 miles north of Seattle). I work full-time on providing support to developers who use [@Auth0̸](https://github.com/auth0) to secure their apps and solve identity.
+Art's here. I'm a software engineer from Arlington, WA (~50 miles north of Seattle). I work full-time on helping [@Auth0̸](https://github.com/auth0) customers onboard faster, secure their apps and solve identity.
 
 
 - 😄 My pronouns are he/him, I'm also comfortable with they/them.
@@ -12,7 +12,7 @@ Art's here. I'm a software engineer from Mill Creek, WA (~20 miles north of Seat
 
 ### What else?
 
-I ❤️ [Gatsby](https://gatsbyjs.org), [Netlify](https://netlify.com), [ZEIT](https://vercel.com) (make me call it Vercel, go ahead, I dare you!) and all things [JAMStack](https://jamstack.org/). React, [Svelte](https://svelte.dev), GraphQL, serverless functions and all this good stuff. 
+I ❤️ [Next.js](https://nextjs.org), [Vercel](https://vercel.com), and all things [JAMStack](https://jamstack.org/). React, [Svelte](https://svelte.dev), GraphQL, serverless functions and all this good stuff. 
 
 ### 🎧 Current Music
 <a href="https://spotify-readme.vercel.app/api/now-playing?open">
