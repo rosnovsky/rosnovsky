@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Art's here. I'm a software engineer from Arlington, WA (~50 miles north of Seattle). I work full-time on helping [@Auth0̸](https://github.com/auth0) customers onboard faster, secure their apps, and solve identity.
+Art's here. I'm a software engineer from Arlington, WA (~50 miles north of Seattle). I work full-time on helping [@Auth0](https://github.com/auth0) by [@Okta](https://github.com/okta) customers onboard faster, secure their apps, and solve identity.
 
 
 - 😄 My pronouns are he/him, I'm also comfortable with they/them.
@@ -12,9 +12,6 @@ Art's here. I'm a software engineer from Arlington, WA (~50 miles north of Seatt
 
 ### What else?
 
-I ❤️ [Next.js](https://nextjs.org), [Vercel](https://vercel.com), and all things [JAMStack](https://jamstack.org/). React, [Svelte](https://svelte.dev), GraphQL, serverless functions and all this good stuff. 
-
-### 🎧 Last Played on Apple Music
-![Last Played Track](https://current-music.vercel.app/last-played)
+I ❤️ [Next.js](https://nextjs.org), [React](https://react.dev), and all things [JAMStack](https://jamstack.org/). [Svelte](https://svelte.dev), serverless functions and all this good stuff. 
 
 
