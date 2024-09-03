@@ -4,7 +4,7 @@ Art's here. I'm a software engineer from Arlington, WA (~50 miles north of Seatt
 
 - 😄 My pronouns are he/him.
 - 🔭 I’m currently working on rebuilding [Rosnovsky.us](https://rosnovsky.us) from scratch, and maintaining [Astro Mastodon](https://www.npmjs.com/package/astro-mastodon)
-- 👯 I’m looking to collaborate on social justice resourses (bail funds, justice reform, racial justice, econimic justice, immigrant support, etc) 
+- 👯 I’m looking to collaborate on social justice resources (bail funds, justice reform, racial justice, economic justice, immigrant support, etc) 
 - 💬 Ask me about identity management, securing access to your apps, role-based access management, Auth0 Actions 
 - 📫 How to reach me: [job@rosnovsky.us](mailto:job@rosnovsky.us)
 - ⚡ Fun fact: I can fly a single-engine airplane.
